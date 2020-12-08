@@ -14,13 +14,13 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    BOT_TOKEN = "bot_token"
+    BOT_TOKEN = "1403989560:AAGcgd5TpkFi5-hBzX4F2Mpy0nn_559T890"
     OWNER_ID = (
-        "1258544708"  # If you dont know, run the bot and do /id in your private chat with it
+        "1410092658"  # If you dont know, run the bot and do /id in your private chat with it
     )
-    OWNER_USERNAME = ""
-    TELETHON_HASH =  ' ' 
-    TELETHON_ID = 123456
+    OWNER_USERNAME = "@AST_JayPatel1304"
+    TELETHON_HASH =  '4e5c83e8fd89d6151ef246f73fa33c34' 
+    TELETHON_ID = 1543761
 
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = ""  # needed for any database modules
